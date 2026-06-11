@@ -2,5 +2,5 @@
 
 My first GitHub Rep.
 
-class Time was start in 14:00
+class Time was start in 14:00. It's a raining thurdsday.
 
